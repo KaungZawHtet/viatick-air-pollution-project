@@ -22,8 +22,10 @@ For those who want to review the project on non dev environment, there is a dire
 ### Links
 
 [This](https://github.com/KaungZawHtet/viatick-air-pollution-ui) is the UI Project Repository.
+
 [This](https://github.com/KaungZawHtet/viatick-air-pollution-api-server) is the API Server Project Repository.
-[This] is the presentation assets Directory.
+
+[This](https://github.com/KaungZawHtet/viatick-air-pollution-project/tree/master/presentation-assets) is the presentation assets Directory.
 
 
 
